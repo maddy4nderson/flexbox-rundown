@@ -105,3 +105,7 @@ iframe {
     flex-direction: row;
     justify-content: space-evenly;
 }
+
+.push {
+    margin-left: auto;
+}
