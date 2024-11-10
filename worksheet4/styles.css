@@ -134,6 +134,10 @@ figcaption {
     padding: 15px 25px 15px 15px;
 }
 
+.media-container .mediacontent {
+    flex: 1;
+    padding: 10px;
+}
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
