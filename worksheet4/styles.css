@@ -127,6 +127,13 @@ figcaption {
 
 }
 
+.media-container {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    padding: 15px 25px 15px 15px;
+}
+
 .container-navigation {
     display: flex;
     flex-wrap: wrap;
